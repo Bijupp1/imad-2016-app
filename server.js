@@ -11,8 +11,8 @@ var articleOne={
     title:'Article-one|Biju Pavithran',
     heading:'Article One',
     date:'Sep 05,2016',
-    content:
-            '       
+    content:'
+                  
             <p>
                 This is the content for my first article.This is the content for my first article.This is the content for my first article.
                 This is the content for my first article.This is the content for my first article.This is the content for my first article.
@@ -25,6 +25,7 @@ var articleOne={
                 This is the content for my first article.This is the content for my first article.This is the content for my first article.
                 This is the content for my first article.This is the content for my first article.This is the content for my first article.
         </p>'
+        
         
        
 };
